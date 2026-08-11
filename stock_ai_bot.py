@@ -14,7 +14,7 @@ Features:
 
 Usage:
     python stock_ai_bot.py
-    python stock_ai_bot.py AAPL TSLA NVDA
+    python stock_ai_bot.py AAPL TSLA NVDA NVO AVGO NKE WMT RGTI PLTR DRAM
 """
 
 import sys
