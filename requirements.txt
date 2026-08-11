@@ -1,0 +1,15 @@
+yfinance>=0.2.40
+pandas>=2.0.0
+numpy>=1.24.0
+ta>=0.11.0
+streamlit>=1.32.0
+plotly>=5.18.0
+python-telegram-bot>=21.0
+openai>=1.30.0
+anthropic>=0.25.0
+textblob>=0.18.0
+vaderSentiment>=3.3.2
+feedparser>=6.0.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+requests>=2.31.0
